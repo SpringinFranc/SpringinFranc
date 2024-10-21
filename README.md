@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CUSTOMER EXPERIENCE ANALYST](https://docs.google.com/spreadsheets/d/1O3A7tiPnKzQWeBMdlgPN0cU7s0mRZEsHTJ4R222Kw24/edit?gid=0#gid=0)
 
-- 🌱 I’m currently learning **Machine Leaning, Deep Learning**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://docs.google.com/spreadsheets/d/1zq_ufGXDr_nMS7zxKywMq63781B3Hvh75hly-5DYZ0c/edit?gid=186140752#gid=186140752](https://docs.google.com/spreadsheets/d/1zq_ufGXDr_nMS7zxKywMq63781B3Hvh75hly-5DYZ0c/edit?gid=186140752#gid=186140752)
 
