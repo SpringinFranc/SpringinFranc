@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on [CUSTOMER EXPERIENCE ANALYST]([https://docs.google.com/spreadsheets/d/1O3A7tiPnKzQWeBMdlgPN0cU7s0mRZEsHTJ4R222Kw24/edit?gid=0#gid=0](https://www.canva.com/design/DAGULtkc6h8/DkGTrCCFOX0YO0cqONqQVw/edit))
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
+- (https://drive.google.com/drive/folders/1QYpd5z-GBoItcfsFdSG36gyo0zDXDzJC)
 
 - 👨‍💻 All of my projects are available at [https://docs.google.com/spreadsheets/d/1zq_ufGXDr_nMS7zxKywMq63781B3Hvh75hly-5DYZ0c/edit?gid=186140752#gid=186140752](https://docs.google.com/spreadsheets/d/1zq_ufGXDr_nMS7zxKywMq63781B3Hvh75hly-5DYZ0c/edit?gid=186140752#gid=186140752)
 - (https://docs.google.com/spreadsheets/d/18LN4Z2X_zFQlc7f43e2fFxk5XdV_C1vDD4xsMg-LQCA/edit?gid=1833268854#gid=1833268854)
